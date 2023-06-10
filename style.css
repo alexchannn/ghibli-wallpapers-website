@@ -1,0 +1,8 @@
+.container img {
+   transition: 0.3s ease;
+}
+
+.container img:hover {
+   border-radius: 7px;
+   transition: 0.3s ease;
+}
